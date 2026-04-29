@@ -5,7 +5,7 @@ Creative Code Review Practices / Code Review Criativo
 > **Curso:** Análise e Desenvolvimento de Sistemas — TADS25.109/2N  
 > **Instituição:** SENAC Recife-PE  
 > **Docente:** Prof. Guibson Santana  
-> **Discentes:** Thayná Batista da Silva · Polyana Fontes
+> **Discentes:** Thayná Batista da Silva e Polyana Fontes
 
 ---
 
